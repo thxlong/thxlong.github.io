@@ -69,7 +69,7 @@ search.addEventListener('click', () => {
                     break;
 
                 case 'Haza':
-                    image1.src = '';
+                    image1.src = 'images/mist.png';
                     image2.src = 'images/flower.png';
                     break;
 
